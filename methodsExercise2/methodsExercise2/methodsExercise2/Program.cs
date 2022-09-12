@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.ComponentModel;
+
+public static void Main(string[] args)
+{
+    var name = Console.ReadLine();
+
+    var result = Add(10, 20);
+
+}
+
+public static int Add(int num1, int num2)
+{ 
+
+
+
+
+}
