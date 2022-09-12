@@ -1,5 +1,4 @@
-﻿//methodsExercise1
-Console.WriteLine("What is your name?");
+﻿Console.WriteLine("What is your name?");
 var name = Console.ReadLine();
 
 Console.WriteLine("What is your excitement level about coding?");
@@ -13,9 +12,7 @@ var gift = Console.ReadLine();
 
 var story = $"{name}'s excitement level about coding is {excitement}.\n" +
     $"{name} listens to {music} while coding.\n" +
-    $"When {name} lands their first job coding, {name} will gift themself:{gift}.\n" +
+    $"When {name} lands their first job coding, {name} will gift themself: {gift}.\n" +
     $"Go TrueCoders!";
 
 Console.WriteLine(story);
-
-//end first exercise
