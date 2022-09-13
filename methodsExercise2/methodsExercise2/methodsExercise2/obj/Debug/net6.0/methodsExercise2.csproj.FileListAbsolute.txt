@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\methodsExercise2.csproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\methodsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\methodsExercise2.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\methodsExercise2.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\methodsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\bin\Debug\net6.0\methodsExercise2.exe
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\bin\Debug\net6.0\methodsExercise2.deps.json
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\bin\Debug\net6.0\methodsExercise2.runtimeconfig.json
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\bin\Debug\net6.0\methodsExercise2.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\bin\Debug\net6.0\methodsExercise2.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\methodsExercise2.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\refint\methodsExercise2.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\methodsExercise2.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\methodsExercise2.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\methodsExercises\methodsExercise2\methodsExercise2\methodsExercise2\obj\Debug\net6.0\ref\methodsExercise2.dll
